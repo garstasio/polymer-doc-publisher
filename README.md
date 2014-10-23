@@ -1,4 +1,4 @@
-grunt-polymer-doc-tool
+polymer-doc-tool
 ======================
 
-Grunt task that publishes docs for your Polymer custom element
+Node module that publishes docs for your Polymer custom element.
