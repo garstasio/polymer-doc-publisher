@@ -1,0 +1,31 @@
+{
+  "name": "polymer-doc-publisher",
+  "version": "1.0.0",
+  "description": "Node module that publishes docs for your Polymer custom element.",
+  "main": "lib/polymer-doc-publisher",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garstasio/polymer-doc-publisher.git"
+  },
+  "author": {
+    "name": "Ray Nicholus",
+    "email": "github@garstasio.com"
+  }
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garstasio/polymer-doc-publisher/issues"
+  },
+  "homepage": "https://github.com/garstasio/polymer-doc-publisher",
+  "preferGlobal": "true",
+  "bin": {
+    "filesearch" : "lib/polymer-doc-publisher.js"
+  },
+  "dependencies": {
+    "rimraf": "2.2.8",
+    "temporary": "0.0.8"
+  },
+  "keywords": ["polymer"]
+}
