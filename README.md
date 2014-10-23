@@ -8,7 +8,7 @@ Node module that publishes docs for your Polymer custom element.
 `npm install -g polymer-doc-publisher`
 
 ## Use
-`node polymer-doc-publisher`
+`polymer-doc-publisher`
 
 ## Notes
 You must run the publisher from your Polymer custom-element's git repo.

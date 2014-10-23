@@ -1,6 +1,6 @@
 {
   "name": "polymer-doc-publisher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node module that publishes docs for your Polymer custom element.",
   "main": "lib/polymer-doc-publisher",
   "scripts": {
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/garstasio/polymer-doc-publisher",
   "preferGlobal": "true",
   "bin": {
-    "filesearch" : "lib/polymer-doc-publisher.js"
+    "polymer-doc-publisher" : "lib/polymer-doc-publisher.js"
   },
   "dependencies": {
     "rimraf": "2.2.8",
