@@ -1,0 +1,7 @@
+{
+  "name": "polymer-doc-tool#gh-pages",
+  "private": true,
+  "dependencies": {
+    "polymer-doc-tool": "garstasio/polymer-doc-tool#master"
+  }
+}

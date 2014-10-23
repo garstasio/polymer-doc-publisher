@@ -1,0 +1,14 @@
+{
+  "name": "polymer-doc-tool",
+  "homepage": "https://github.com/garstasio/polymer-doc-tool",
+  "_release": "09d98ddf51",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "09d98ddf51f9286c8776eb42358fc97ad74dc55c"
+  },
+  "_source": "git://github.com/garstasio/polymer-doc-tool.git",
+  "_target": "master",
+  "_originalSource": "garstasio/polymer-doc-tool",
+  "_direct": true
+}
